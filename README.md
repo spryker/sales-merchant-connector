@@ -4,6 +4,8 @@
 
 Provides database structure and plugins to link sales to merchants.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
