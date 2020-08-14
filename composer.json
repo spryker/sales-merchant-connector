@@ -35,5 +35,6 @@
   },
   "config": {
     "sort-packages": true
-  }
+  },
+  "abandoned": "spryker/merchant-sales-order"
 }
