@@ -5,6 +5,7 @@
 Provides database structure and plugins to link sales to merchants.
 
 **DEPRECATED - This module is not continued at this point.**
+**Similar functionality is provided by https://github.com/spryker/merchant-sales-order.**
 
 ## Installation
 
